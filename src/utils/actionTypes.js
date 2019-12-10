@@ -1,0 +1,4 @@
+export const GET_OSAKE_LIST = 'GET_OSAKE'
+export const CHANGE_OSAKE_LIST = 'CHANGE_OSAKE_LIST'
+export const GET_OSAKE_DETAIL = 'GET_OSAKE_DETAIL'
+export const ADD_OSAKE = 'ADD_OSAKE'
